@@ -7,6 +7,8 @@
 
 It's a simple modification of "Modern_Deathscreen".
 
+It must be finished, it is only a project
+
 https://github.com/AllCitySor/modern_deathscreen
 
 No support because it is simple to use / modify
@@ -16,6 +18,7 @@ No support because it is simple to use / modify
 
 C'est une simple modification de "Modern_Deathscreen" de AllCitySor 
 
+Il faut le finir ! Ce n'est qu'un projet ...
 
 https://github.com/AllCitySor/modern_deathscreen
 
